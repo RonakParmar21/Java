@@ -28,5 +28,5 @@ Huge respect and thanks to **Abdul Bari Sir** for his clear and powerful teachin
 ## 📌 Author
 
 - Name: Ronak Parmar  
-- LinkedIn: [Connect with me](https://linkedin.com/in/yourprofile)  
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/parmar-ronak/)  
+- GitHub: [github.com/yourusername](https://github.com/RonakParmar21)
